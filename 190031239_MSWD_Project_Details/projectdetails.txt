@@ -1,0 +1,13 @@
+Team lead id number : 190031239
+
+Team lead name : PALLANTI DIVYA
+
+Team Member id number : 190031405
+
+Team Member name : RAVI HIMASWETHA
+
+Project ID : 19
+
+Project Title : Online Voting System
+
+Completion Percentage : 70 
